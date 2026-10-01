@@ -5,6 +5,8 @@
 
 ### 💻 Tech Stack & Tools
 
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -14,6 +16,13 @@
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![ARM Cortex](https://img.shields.io/badge/ARM_Cortex-0091BD?style=flat-square&logo=arm&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00A86B?style=flat-square&logo=freertos&logoColor=white)
+![Modbus](https://img.shields.io/badge/Modbus-E31937?style=flat-square)
+![RS485](https://img.shields.io/badge/RS--485-333333?style=flat-square)
+![Keil](https://img.shields.io/badge/Keil-2C3E50?style=flat-square)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
